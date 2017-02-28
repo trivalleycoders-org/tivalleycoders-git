@@ -1,10 +1,16 @@
 # tvc-git
 ## Purpose?
 Team members should use this project to learn how to work with the repository.
+## Introduction
+Everyone in the group is making changes to the code and there needs to be an organized way to get it all into one code base.
+Try these steps. Not all of them are required every time. Repeat this process until you are comfortable with it.
+There are a couple of well-known workflows
+- **Fork & pull model**: is best for open source projects
+- **Shared repository model**: works well for small private groups
+Our group is small and we are all owners of the repository so the _shared_ model should work well for us.
+
 ## Process
 ** _this process is Draft_ **
-Try these steps. Not all of them are required every time. Repeat this process until you are comfortable with it.
-
 ### Initial Setup
 1. $ git clone  https://github.com/trivalleycoders-org/tvc-git.git
 2. $ cd tvc-git
