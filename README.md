@@ -45,3 +45,6 @@ Our group is small and we are all owners of the repository so the _shared_ model
 4. Look in master. You will see the merged changes
 
 ## Hum ... Megre again?
+1. Pull the branch if necessary
+2. Checkout master
+3. $ git merge klequis-tvc
